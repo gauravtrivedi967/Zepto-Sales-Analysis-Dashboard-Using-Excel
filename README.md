@@ -30,7 +30,7 @@ The Sales Dashboard is an interactive tool designed to visualize key business me
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Install Power BI Desktop / Tableau Desktop (or any tool used for building the dashboard).
+- Install Excel.
 - Download this repository and unzip it.
 
 ### Installation
