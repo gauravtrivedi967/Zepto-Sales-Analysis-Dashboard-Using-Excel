@@ -1,5 +1,5 @@
 # Zepto-Sales-Analysis-Dashboard-Using-Excel
-![alt text]https://github.com/gauravtrivedi967/Zepto-Sales-Analysis-Dashboard-Using-Excel/blob/main/Banner.png
+![screenshot]https://github.com/gauravtrivedi967/Zepto-Sales-Analysis-Dashboard-Using-Excel/blob/main/Banner.png
 
 This repository contains the code and documentation for a **Sales Dashboard** created as part of my coursework. The dashboard provides comprehensive insights into sales performance, customer preferences, and outlet ratings, helping stakeholders make data-driven decisions in a retail context.
 
