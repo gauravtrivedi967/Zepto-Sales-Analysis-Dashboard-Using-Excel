@@ -4,7 +4,7 @@
 This repository contains the code and documentation for a **Sales Dashboard** created as part of my coursework. The dashboard provides comprehensive insights into sales performance, customer preferences, and outlet ratings, helping stakeholders make data-driven decisions in a retail context.
 
 ## 📊 Dashboard Overview
-![Screenshot 2024-11-12 194349](https://github.com/user-attachments/assets/c3fde7ae-8e32-4f1b-9328-8695a21ee688)
+![Dashboard](https://github.com/user-attachments/assets/1377a3a7-4cc6-4058-8b40-8ad9294f9896)
 
 The Sales Dashboard is an interactive tool designed to visualize key business metrics and trends. It is organized into multiple sections that cover:
 
