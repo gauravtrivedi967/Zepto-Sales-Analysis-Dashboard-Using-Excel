@@ -35,10 +35,10 @@ The Sales Dashboard is an interactive tool designed to visualize key business me
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sales-dashboard.git
+   git clone https://github.com/gauravtrivedi967/Zepto-Sales-Analysis-Dashboard-Using-Excel.git
    ```
 
-2. Open the dashboard file in Excel (e.g., `sales_dashboard.pbix` or `sales_dashboard.twbx`).
+2. Open the dashboard file in Excel (e.g., `Zepto-Sales-Analysis-Dashboard-Using-Excel.xlsx`).
 
 ### Usage
 
